@@ -1,0 +1,11 @@
+,Employee_Name,EmpID,Salary,State,GenderID,DateofTermination
+150,"King, Janet",10089,250000,MA,0,Not Terminated
+308,"Zamora, Jennifer",10010,220450,MA,0,Not Terminated
+131,"Houlihan, Debra",10272,180000,RI,0,Not Terminated
+96,"Foss, Jason",10015,178000,MA,1,Not Terminated
+55,"Corleone, Vito",10019,170500,MA,1,Not Terminated
+190,"Monroe, Peter",10288,157000,MA,1,Not Terminated
+240,"Roper, Katie",10086,150290,MA,0,Not Terminated
+244,"Ruiz, Ricardo",10222,148999,MA,1,11/4/2015
+243,"Roup,Simon",10198,140920,MA,1,Not Terminated
+76,"Dougall, Eric",10028,138888,MA,1,Not Terminated

@@ -1,0 +1,32 @@
+operators
+= : assignment
+== : equivalent 
++ :  addition
+- : subtraction
+!= : Not equals
+% : reminder 
+// : quotitent
+
+data types
+int = intergers
+float = decimals
+string = characters
+list = list of mutable elements
+tuple = list of immutable elements 
+dict = key value pairs
+set = list of unique elements
+
+variables
+
+types of variable 
+global variable
+local variable
+
+function
+def
+
+class
+
+Oops concepts
+
+
