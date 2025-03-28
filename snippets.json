@@ -1,0 +1,9 @@
+"Python Function Template": {
+    "prefix": "pyfunc",
+    "body": [
+        "def $1($2):",
+        "    \"\"\" $3 \"\"\"",
+        "    return $4"
+    ],
+    "description": "Template for Python functions"
+}
